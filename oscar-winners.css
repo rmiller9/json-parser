@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family:arial, sans-serif;
+}
+#wrapper {
+	margin:0 auto;
+	font-size:18px;
+	border:1px solid #eee;
+	border-radius:10px;
+	padding:15px;
+}
+.pageNote {
+	text-align:center;
+	color:#999;
+	font-size:16px;
+}
+#wrapper h1 {
+	text-align:center;
+}
+@media screen and (min-width:768px){
+	#wrapper {
+		width:75%;		
+	}
+}
+#awardsList {
+	margin-left:15px;
+}
+.hidden {
+	display:none;
+}
+
+

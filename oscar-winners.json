@@ -1,0 +1,673 @@
+[
+	{
+		"year": 1968,
+		"title": "Oliver!",
+		"screenwriter": "Vernon Harris",
+		"director":"Carol Reed",
+		"awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Score",
+			"Best Art Direction",
+			"Best Sound"
+		  ]
+	},
+	{
+		"year": 1969,
+		"title": "Midnight Cowboy",
+		"screenwriter": "Waldo Salt",
+		"director":"John Schlesinger",
+		"awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Adapted Screenplay"
+		  ]
+	},
+ 	{
+		"year": 1970,
+		"title": "Patton",
+		"screenwriter": "Francis Ford Coppola and Edmund H. North",
+		"director":"Franklin J. Schaffner",
+		"awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Original Screenplay",
+			"Best Actor: George C. Scott",
+			"Best Film Editing",
+			"Best Sound",
+			"Best Art Direction",
+			"Best Original Screenplay"
+		  ]
+		},
+	{
+		  "year": 1971,
+		  "title": "the French Connection",
+		  "screenwriter": "Ernest Tidyman",
+		  "director":"William Friedkin",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Actor: Gene Hackman",
+			"Best Adapted Screenplay",
+			"Best Film Editing"
+		  ]
+		},
+	{
+		  "year": 1972,
+		  "title": "the Godfather",
+		  "screenwriter": "Mario Puzo",
+		  "director":"Francis Ford Coppola",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Actor: Marlon Brando",
+			"Best Adapted Screenplay",
+			"Best Original Score"
+		  ]
+	},
+	{
+		  "year": 1973,
+		  "title": "the Sting",
+		  "screenwriter": "David S. Ward",
+		  "director":"George Roy Hill",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Music",
+			"Best Screenplay",
+			"Best Art Direction",
+			"Best Film Editing",
+			"Best Costume Design"
+		  ]
+	},
+	{
+		  "year": 1974,
+		  "title": "The Godfather Part II",
+		  "screenwriter": "Mario Puzo",
+		  "director":"Francis Ford Coppola",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Supporting Actor: Robert DeNiro",
+			"Best Adapted Screenplay",
+			"Best Original Score",
+				"Best Art Direction"
+		  ]
+	},
+	{
+		  "year": 1975,
+		  "title": "One Flew Over the Cuckoo's Nest",
+		  "screenwriter": "Lawrence Hauben and Bo Goldman",
+		  "director": "Miloš Forman",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Actor: Jack Nicholson",
+			"Best Actress: Louise Fletcher",
+			"Best Music",
+			"Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 1976,
+		  "title": "Rocky",
+		  "screenwriter": "Sylvester Stallone",
+		  "director":"John G. Avildsen",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Film Editing"
+		  ]
+	},	
+	{
+		  "year": 1977,
+		  "title": "Annie Hall",
+		  "screenwriter": "Woody Allen and  Marshall Brickman",
+		  "director":"Woody Allen",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Actress: Diane Keaton",
+			"Best Original Screenplay"
+		  ]
+	},	
+	{
+		  "year": 1978,
+		  "title": "the Deer Hunter",
+		  "screenwriter": "Michael Cimino, Deric Washburn, Louis Garfinkle, Quinn K. Redeker",
+		  "director":"Michael Cimino",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Supporting Actor: Christopher Walken",
+			"Best Film Editing",
+			"Best Sound"
+
+	  ]
+	},
+	
+	{
+		  "year": 1979,
+		  "title": "Kramer Vs Kramer",
+		  "screenwriter": "Robert Benton",
+		  "director":"Robert Benton",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Actor: Dustin Hoffman",
+			"Best Supporting Actress: Meryl Streep",
+			"Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 1980,
+		  "title": "Ordinary People",
+		  "screenwriter": "Alvin Sargent",
+		  "director":"Robert Redford",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Adapted Screenplay",
+			"Best Supporting Actor: Timothy Hutton"
+		  ]
+	},
+	{
+		  "year": 1981,
+		  "title": "Chariots of Fire",
+		  "screenwriter": "Collin Weland",
+		  "director":"Hugh Hudson",
+		  "awards": [
+			"Best Picture",
+			"Best Original Screenplay",
+			"Best Costume Design",
+			"Best Original Score"
+		  ]
+	},
+	{
+		  "year": 1982,
+		  "title": "Gandhi",
+		  "screenwriter": "John Briley",
+		  "director":"Richard Attenborough",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Actor: Ben Kingsley",
+			"Best Adapted Screenplay",
+			"Best Cinematography",
+			"Best Original Score",
+			"Best Art Direction",
+			"Best Costume Design",
+			"Best Film Editing"
+		  ]
+	},
+	{
+		  "year": 1983,
+		  "title": "Terms of Endearment",
+		  "screenwriter": "James L. Brooks",
+		  "director":"James L. Brooks",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Adapted Screenplay",
+			"Best Actress: Shirley MacLaine",
+			"Best Supporting Actor: Jack Nicholson"
+		  ]
+	},
+	{
+		  "year": 1984,
+		  "title": "Amadeus",
+		  "screenwriter": " Peter Shaffer ",
+		  "director":"Miloš Forman",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Adapted Screenplay",
+			"Best Actor: F. Murray Abraham",
+			"Best Art Direction",
+			"Best Costume Design",
+			"Best Makeup",
+			"Best Sound"
+		  ]
+	},
+	{
+		  "year": 1985,
+		  "title": "Out of Africa",
+		  "screenwriter": "Kurt Luedtke",
+		  "director":"Sydney Pollack",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Art Direction",
+			"Best Cinematography",
+			"Best Adapted Screenplay",
+			"Best Original Score",
+			"Best Sound"
+		  ]
+	},
+	{
+		  "year": 1986,
+		  "title": "Platoon",
+		  "screenwriter": "Oliver Stone",
+		  "director":"Oliver Stone",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Film Editing",
+			"Best Sound"
+		  ]
+	},
+	{
+		  "year": 1987,
+		  "title": "The Last Emperor",
+		  "screenwriter": "Bernardo Bertolucci, Mark Peploe",
+		  "director":"Bernardo Bertolucci",
+		  "awards": [
+			"Best Picture",
+			"Best Director",
+			"Best Art Direction",
+			"Best Cinematography",
+			"Best Costume Design",
+			"Best Film Editing",
+			"Best Original Score",
+			"Best Sound",
+			"Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 1988,
+		  "title": "Rain Man",
+		  "screenwriter": "Barry Morrow, Ronald Bass",
+		  "director":"Barry Levinson",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Original Screenplay",
+			  "Best Actor: Dustin Hoffman"
+		  ]
+	},
+	{
+		  "year": 1989,
+		  "title": "Driving Miss Daisy",
+		  "screenwriter": "Alfred Uhry",
+		  "director": "Bruce Beresford",
+		  "awards": [
+			  "Best Picture",
+			  "Best Actress: Jessica Tandy",
+			  "Best Adapted Screenplay",
+			  "Best Makeup"
+		  ]
+	},
+	{
+		  "year": 1990,
+		  "title": "Dances With Wolves",
+		  "screenwriter": "Michael Blake",
+		  "director":"Kevin Costner",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Adapted Screenplay",
+			  "Best Original Score",
+			  "Best Film Editing",
+			  "Best Cinematography",
+			  "Best Sound"
+		  ]
+	},
+	{
+		  "year": 1991,
+		  "title": "The Silence of the Lambs",
+		  "screenwriter": "Ted Tally",
+		  "director":"Jonathan Demme",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Actor: Anthony Hopkins",
+			  "Best Actress: Jody Foster",
+			  "Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 1992,
+		  "title": "Unforgiven",
+		  "screenwriter": "David Webb Peoples",
+		  "director":"Clint Eastwood",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Supporting Actor: Gene Hackman",
+			  "Best Film Editing"
+		  ]
+	},
+	{
+		  "year": 1993,
+		  "title": "Schindler’s List",
+		  "screenwriter": "Steven Zaillian",
+		  "director":"Steven Spielberg",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Adapted Screenplay",
+			  "Best Original Score",
+			  "Best Film Editing",
+			  "Best Cinematography",
+			  "Best Art Direction"
+		  ]
+	},
+	{
+		  "year": 1994,
+		  "title": "Forrest Gump",
+		  "screenwriter": "Eric Roth",
+		  "director":"Robert Zemeckis",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Actor: Tom Hanks",
+			  "Best Adapted Screenplay",
+			  "Best Visual Effects",
+			  "Best Film Editing"
+		  ]
+	},
+	{
+		  "year": 1995,
+		  "title": "Braveheart",
+		  "screenwriter": "Randall Wallace",
+		  "director":"Mel Gibson",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Cinematography",
+			  "Best Sound Editing",
+			  "Best Makeup"
+		  ]
+	},
+	{
+		  "year": 1996,
+		  "title": "The English Patient",
+		  "screenwriter": "Anthony Minghella",
+		  "director":"Anthony Minghella",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Supporting Actress: Juliette Binoche",
+			  "Best Art Direction",
+			  "Best Cinematography",
+			  "Best Costume Design",
+			  "Best Film Editing",
+			  "Best Original Dramatic Score",
+			  "Best Sound"
+		  ]
+	},
+	{
+		  "year": 1997,
+		  "title": "Titanic",
+		  "screenwriter": "James Cameron",
+		  "director":"James Cameron",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Art Direction",
+			  "Best Cinematography",
+			  "Best Costume Design",
+			  "Best Film Editing",
+			  "Best Original Dramatic Score",
+			  "Best Original Song",
+			  "Best Sound Mixing",
+			  "Best Sound Editing",
+			  "Best Visual Effects"
+		  ]
+	},
+	{
+		  "year": 1998,
+		  "title": "Shakespeare in Love",
+		  "screenwriter": "Marc Norman and Tom Stoppard",
+		  "director":"John Madden",
+		  "awards": [
+			  "Best Picture",
+			  "Best Actress: Gwyneth Paltrow",
+			  "Best Supporting Actress: Dame Judi Dench",
+			  "Best Art Direction",
+			  "Best Costume Design",
+			  "Best Original Musical or Comedy Score",
+			  "Best Original Screenplay"
+		  ]
+	},
+	{
+		  "year": 1999,
+		  "title": "American Beauty",
+		  "screenwriter": "Alan Ball",
+		  "director":"Sam Mendes",
+		  "awards": [
+			  "Best Picture",
+			  "Best Actor: Kevin Spacey",
+			  "Best Director",
+			  "Best Original Screenplay",
+			  "Best Cinematography"
+		  ]
+	},
+	{
+		  "year": 2000,
+		  "title": "Gladiator",
+		  "screenwriter": "David Franzoni, John Logan and William Nicholson",
+		  "director":"Ridley Scott ",
+		  "awards": [
+			  "Best Picture",
+			  "Best Actor: Russell Crowe",
+			  "Best Visual Effects",
+			  "Best Costume Design",
+			  "Best Sound Mixing"
+		  ]
+	},
+	{
+		  "year": 2001,
+		  "title": "A Beautiful Mind",
+		  "screenwriter": "Akiva Goldsman",
+		  "director":"Ron Howard",
+		  "awards": [
+			  "Best Picture", 
+			  "Best Adapted Screenplay",
+			  "Best Director",
+			  "Best Supporting Actress: Jennifer Connelly"  
+		  ]
+	},	
+	{
+		  "year": 2002,
+		  "title": "Chicago",
+		  "screenwriter": "Bill Condon",
+		  "director":"Rob Marshall",
+		  "awards": [
+			  "Best Picture",
+			  "Best Supporting Actress: Catherine Zeta Jones",
+			  "Best Art Direction",
+			  "Best Costume Design",
+			  "Best Film Editing",
+			  "Best Sound"
+		  ]
+	},	
+	{
+		  "year": 2003,
+		  "title": "The Lord of the Rings: The Return of the King",
+		  "screenwriter": "",
+		  "director":"Peter Jackson",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Adapted Screenplay",
+			  "Best Costume Design",
+			  "Best Art Direction",
+			  "Best Film Editing",
+			  "Best Makeup",
+			  "Best Original Score",
+			  "Best Original Song",
+			  "Best Sound Mixing",
+			  "Best Visual Effects"
+		  ]
+	},	
+	{
+		  "year": 2004,
+		  "title": "Million Dollar Baby",
+		  "screenwriter": "Clint Eastwood",
+		  "director":"Paul Haggis",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Actress: Hilary Swank",
+			  "Best Supporting Actor: Morgan Freeman"
+		  ]
+	},	
+	{
+		  "year": 2005,
+		  "title": "Crash",
+		  "screenwriter": "Paul Haggis and Bobby Moresco",
+		  "director":"Paul Haggis",
+		  "awards": [
+			  "Best Picture",
+			  "Best Original Screenplay", 
+			  "Best Film Editing"
+		  ]
+	},	
+	{
+		  "year": 2006,
+		  "title": "The Departed",
+		  "screenwriter": "William Monahan",
+		  "director":"Martin Scorsese",
+		  "awards": [
+			  "Best Picture",
+			  "Best Film Editing",
+			  "Best Writing, Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 2007,
+		  "title": "No Country for Old Men",
+		  "screenwriter": "Joel Coen and Ethan Coen",
+		  "director":"Joel Coen and Ethan Coen",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director", 
+			  "Best Supporting Actor: Javier Bardem",
+			  "Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 2008,
+		  "title": "Slumdog Millionaire",
+		  "screenwriter": "Simon Beaufoy",
+		  "director":"Danny Boyle",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Adapted Screenplay",
+			  "Best Cinematography",
+			  "Best Editing",
+			  "Best Original Score",
+			  "Best Original Song",
+			  "Best Sound Mixing"
+		  ]
+	},
+	{
+		  "year": 2009,
+		  "title": "The Hurt Locker",
+		  "screenwriter": "Mark Boal",
+		  "director":"Kathryn Bigelow",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Original Screenplay",
+			  "Best Film Editing",
+			  "Best Sound Mixing",
+			  "Best Sound Editing"
+		  ]
+	},
+	{
+		  "year": 2010,
+		  "title": "The King's Speech",
+		  "screenwriter": "David Seidler",
+		  "director":"Tom Hooper",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director", 
+			  "Best Actor: Colin Firth", 
+			  "Best Original Screenplay"
+		  ]
+	},
+	{
+		  "year": 2011,
+		  "title": "The Artist",
+		  "screenwriter": "Michel Hazanavicius",
+		  "director":"Michel Hazanavicius",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Actor: Jean Dujardin",
+			  "Best Costume Design",
+			  "Best Original Score"
+		  ]
+	},
+	{
+		  "year": 2012,
+		  "title": "Argo",
+		  "screenwriter": "Chris Terrio",
+		  "director":"Ben Affleck",
+		  "awards": [
+			  "Best Picture",
+			  "Best Adapted Screenplay", 
+			  "Best Film Editing"
+		  ]
+	},
+	{
+		  "year": 2013,
+		  "title": "12 Years a Slave",
+		  "screenwriter": "John Ridley",
+		  "director":"Steve McQueen",
+		  "awards": [
+			  "Best Picture",
+			  "Best Supporting Actress : Lupita Nyong'o",
+			  "Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 2014,
+		  "title": "Birdman",
+		  "screenwriter": "Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris Jr. and Armando Bo",
+		  "director":" Alejandro G. Iñárritu",
+		  "awards": [
+			  "Best Picture",
+			  "Best Director",
+			  "Best Original Screenplay", 
+			  "Best Cinematography" 
+		  ]
+	},
+	{
+		  "year": 2015,
+		  "title": "Spotlight",
+		  "screenwriter": "Tom McCarthy and Josh Singer",
+		  "director":"Tom McCarthy",
+		  "awards": [
+			  "Best Picture",
+			  "Best Original Screenplay"
+		  ]
+	},	
+		{
+		  "year": 2016,
+		  "title": "Moonlight",
+		  "screenwriter": "Barry Jenkins",
+		  "director":"Barry Jenkins",
+		  "awards": [
+			  "Best Picture",
+			  "Best Supporting Actor: Mahershala Ali",
+			  "Best Adapted Screenplay"
+		  ]
+	},
+	{
+		  "year": 2017,
+		  "title": "The Shape of Water",
+		  "screenwriter": "Guillermo del Toro and Vanessa Taylor",
+		  "director":"Guillermo del Toro",
+		  "awards": [
+			  "Best Picture",
+			  "Best Production Design", 
+			  "Best Original Score", 
+			  "Best Director"			  
+		  ]
+	}
+]
+
