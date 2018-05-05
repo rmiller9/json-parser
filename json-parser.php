@@ -37,7 +37,7 @@ function populateOptions(arr) {
         arr[i].year + '</option>';
     }
     document.getElementById("selector").innerHTML = out;
-	document.getElementById("headline").innerHTML = arr.length + " years of Academy Awards"
+    document.getElementById("headline").innerHTML = arr.length + " years of Academy Awards"
 }
 function detectSelection(selector,callback){
   var isItClicked = document.getElementById(selector);
