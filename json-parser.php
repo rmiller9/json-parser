@@ -32,8 +32,7 @@ xmlhttp.send();
 
 function populateOptions(arr) {
     var out = "";
-    var i;
-    for(var i in arr) {
+        for(var i in arr) {
         out += '<option value="' + arr[i].year + '">' + 
         arr[i].year + '</option>';
     }
